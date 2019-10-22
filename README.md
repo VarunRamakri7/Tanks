@@ -13,11 +13,11 @@ Controls:
   - 'E' or 'e' to exit
 
 Images below:
-  - Menu
+  - Menu<br/>
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_Menu.png)
-  - View 1
+  - View 1<br/>
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_1.png)
-  - View 2
+  - View 2<br/>
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_2.png)
-  - View 3
+  - View 3<br/>
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_3.png)
