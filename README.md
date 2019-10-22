@@ -14,10 +14,10 @@ Controls:
 
 Images below:
   - Menu
-![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_Menu.png)
+  ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_Menu.png)
   - View 1
-![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_1.png)
+  ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_1.png)
   - View 2
-![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_2.png)
+  ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_2.png)
   - View 3
-![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_3.png)
+  ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_3.png)
