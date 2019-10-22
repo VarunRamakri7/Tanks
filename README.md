@@ -12,6 +12,9 @@ Controls:
   - '1' to shoot
   - 'E' or 'e' to exit
 
+Run [this exe](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Ramakrishnan_V/Debug/Ramakrishnan_V_Tanks.exe) to play the game (shown in the images below). The menu is part of a different file in [this exe](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Ramakrishnan_V/Debug/cgt215.exe)<br/>
+The main difference between the two files is the colors and the menu.
+
 Images below:
   - Menu<br/>
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_Menu.png)
@@ -21,6 +24,3 @@ Images below:
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_2.png)
   - View 3<br/>
   ![Menu](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Image_3.png)
-
-Run [this exe](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Ramakrishnan_V/Debug/Ramakrishnan_V_Tanks.exe) to play the game in the pictures.
-The menu is part of a different file in [this exe](https://github.com/VarunRamakri7/Tanks/blob/master/Tanks_Ramakrishnan_V/Debug/cgt215.exe)
